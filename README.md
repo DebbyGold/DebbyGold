@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebbyGold
+- 👋 Hi, I’m Olukanni Oluwafunmilola
 - 👀 I’m interested in UI/UX and front-end development
 - 🌱 I’m currently learning Angular and React
 - 💞️ I’m looking to collaborate on projects related to my area of interests
